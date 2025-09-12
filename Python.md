@@ -81,6 +81,7 @@ print(word[4:-1])
 
 https://youtu.be/K8yYltTnSgQ?si=NsyiySl9BiJt8aef
 **isdigit()**  - проверяет состоит ли строка из цифр, если да, возвращает значение True, нет - False;
+
 **del** - удаление переменной
 #### Условные операторы 
 
