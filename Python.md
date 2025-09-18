@@ -543,3 +543,8 @@ except FileNotFoundError:
 Можем делать свои, а можем подключить встроенные модули. 
 https://tproger.ru/articles/modul-paket-biblioteka-frejmvork-razbiraemsya-v-raznice
 ![[Pasted image 20250918170623.png]]
+Что такое **сниппет**?: 
+1. Ввод триггера 
+2. Выбор из списка необходимого уже готового фрагмента кода
+3. Нажать Tab
+4. Получение шаблонного кода (Например: Вводим **for**, нажимаем **Tab**, получим **for i in range(10):** ; вводим **print**, нажимаем **Tab,** получаем **print("")** )
