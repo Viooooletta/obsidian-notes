@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "643b8a1d5eceaca5",
+            "id": "7bb1c36b5ffdce2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🏠 Home.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "🏠 Home"
             }
           }
         ],
@@ -37,7 +41,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -139,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Подготовка к Route 256.md",
+                "file": "🏠 Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Подготовка к Route 256"
+              "title": "Структура 🏠 Home"
             }
           },
           {
@@ -159,11 +163,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,33 +182,36 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "643b8a1d5eceaca5",
+  "active": "7bb1c36b5ffdce2e",
   "lastOpenFiles": [
-    "2025-09-22.md",
+    "🏠 Home.md",
+    "Конспекты/Python.md",
+    "Конспекты/Конспект по книге Святослава Куликова - Тестирование ПО.md",
+    "Без названия/Без названия.md",
+    "Конспекты",
     "Без названия.canvas",
+    "2025-09-22.md",
     "Без названия.base",
+    "Конспекты/Git.md",
+    "Pasted image 20250716152350.png",
+    "Pasted image 20250716152814.png",
+    "Pasted image 20250716151705.png",
+    "Святослав_Куликов_Тестирование_ПО.pdf",
+    "Pasted image 20250716005817.png",
     "Песенки для гитары.md",
-    "Конспект по книге Святослава Куликова - Тестирование ПО.md",
     "English.md",
     "Веб-сайт для сдачи дома (проект).md",
-    "Python.md",
     "Pasted image 20250918174937.png",
     "Pasted image 20250918170623.png",
-    "Git.md",
     "[[split(n)]].md",
     "split(n).md",
     "Pasted image 20250821152128.png",
     "().md",
     "Подготовка к Route 256.md",
-    "Святослав_Куликов_Тестирование_ПО.pdf",
     "Pasted image 20250730180231.png",
     "Pasted image 20250730175639.png",
     "Pasted image 20250730175441.png",
-    "Pasted image 20250727165115.png",
     "git-cheat-sheet-education.pdf",
-    "Pasted image 20250727160635.png",
-    "Pasted image 20250716163751.png",
-    "Pasted image 20250716152814.png",
     "Test Driven Development.md",
     "Test Driven Development[[English.md",
     "2025-07-15.md",
