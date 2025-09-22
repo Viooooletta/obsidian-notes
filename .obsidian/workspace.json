@@ -11,10 +11,14 @@
             "id": "7bb1c36b5ffdce2e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "🏠 Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🏠 Home"
             }
           }
         ],
@@ -91,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "🏠 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Python"
+              "title": "Обратные ссылки для 🏠 Home"
             }
           },
           {
@@ -139,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "🏠 Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 🏠 Home"
             }
           },
           {
@@ -157,13 +162,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,9 +182,15 @@
   },
   "active": "7bb1c36b5ffdce2e",
   "lastOpenFiles": [
+    "🏠 Home.md",
+    "Проект по переработке.md",
+    "Переработка одежды.md",
+    "[Переработка одежды]().md",
+    "Тут все мои хотелки.md",
+    "Проект по переработке одежды.md",
+    "Проект переработки одежды.md",
     "Конспекты/Конспект по книге Святослава Куликова - Тестирование ПО.md",
     "English.md",
-    "🏠 Home.md",
     "Без названия.md",
     "Конспекты/Python.md",
     "Без названия/Без названия.md",
