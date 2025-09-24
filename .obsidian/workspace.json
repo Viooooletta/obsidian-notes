@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "🏠 Home"
             }
+          },
+          {
+            "id": "b5ecabf45948502c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -62,7 +73,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -75,7 +86,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 🏠 Home"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -180,10 +191,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7bb1c36b5ffdce2e",
+  "active": "b5ecabf45948502c",
   "lastOpenFiles": [
-    "Сделать свою настольную игру.md",
+    "Без названия.base",
+    "Работаю в IT.md",
     "🏠 Home.md",
+    "Настольные игры.md",
+    "Сделать свою настольную игру.md",
     "Проект по переработке.md",
     "Переработка одежды.md",
     "[Переработка одежды]().md",
@@ -198,7 +212,6 @@
     "Конспекты",
     "Без названия.canvas",
     "2025-09-22.md",
-    "Без названия.base",
     "Конспекты/Git.md",
     "Pasted image 20250716152350.png",
     "Pasted image 20250716152814.png",
@@ -220,9 +233,6 @@
     "git-cheat-sheet-education.pdf",
     "Test Driven Development.md",
     "Test Driven Development[[English.md",
-    "2025-07-15.md",
-    "Untitled.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
