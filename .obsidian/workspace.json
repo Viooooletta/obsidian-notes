@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "🏠 Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5041847229004
+    "width": 334.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "77240d5535bce4f0",
@@ -166,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,23 +184,28 @@
   },
   "active": "b5ecabf45948502c",
   "lastOpenFiles": [
+    "🏠 Home.md",
+    "Музыка.md",
+    "Гитара.md",
+    "Барабаны.md",
     "Работа.md",
+    "Настольные игры.md",
+    "Проект по переработке.md",
+    "Сделать свою настольную игру.md",
+    "Тестирование ПО.md",
+    "Святослав_Куликов_Тестирование_ПО.md",
+    "Святослав_Куликов_Тестирование_ПО.pdf",
+    "Pasted image 20250716152054.png",
     "Python.md",
+    "Переработка бумаги.md",
+    "Переработка одежды.md",
     "Pasted image 20250821152128.png.md",
     "Проект переработки одежды.md",
-    "🏠 Home.md",
-    "Гитара.md",
-    "Конспект по книге Святослава Куликова - Тестирование ПО.md",
     "Песенки для гитары.md",
-    "Проект по переработке.md",
-    "Переработка бумаги.md",
     "Git.md",
-    "Настольные игры.md",
     "Без названия.canvas",
     "Работаю в IT.md",
     "Без названия.base",
-    "Сделать свою настольную игру.md",
-    "Переработка одежды.md",
     "[Переработка одежды]().md",
     "Тут все мои хотелки.md",
     "Проект по переработке одежды.md",
@@ -210,18 +217,13 @@
     "Pasted image 20250716152350.png",
     "Pasted image 20250716152814.png",
     "Pasted image 20250716151705.png",
-    "Святослав_Куликов_Тестирование_ПО.pdf",
     "Pasted image 20250716005817.png",
     "Веб-сайт для сдачи дома (проект).md",
     "Pasted image 20250918174937.png",
     "Pasted image 20250918170623.png",
-    "[[split(n)]].md",
-    "split(n).md",
     "Pasted image 20250821152128.png",
-    "().md",
     "Pasted image 20250730180231.png",
     "Pasted image 20250730175639.png",
-    "Pasted image 20250730175441.png",
     "git-cheat-sheet-education.pdf",
     "Untitled.canvas"
   ]
