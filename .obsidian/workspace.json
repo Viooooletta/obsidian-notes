@@ -11,10 +11,14 @@
             "id": "b5ecabf45948502c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "🏠 Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🏠 Home"
             }
           }
         ],
@@ -178,6 +182,7 @@
   },
   "active": "b5ecabf45948502c",
   "lastOpenFiles": [
+    "Работа.md",
     "Python.md",
     "Pasted image 20250821152128.png.md",
     "Проект переработки одежды.md",
@@ -190,7 +195,6 @@
     "Git.md",
     "Настольные игры.md",
     "Без названия.canvas",
-    "Работа.md",
     "Работаю в IT.md",
     "Без названия.base",
     "Сделать свою настольную игру.md",
