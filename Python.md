@@ -575,3 +575,4 @@ https://tproger.ru/articles/modul-paket-biblioteka-frejmvork-razbiraemsya-v-razn
 Это конструктор по умолчанию, он не выполняет ничего и мы можем его не прописывать
 __ init __ (self): # перед и после слова init два нижних подчеркивания без пробелов
 	pass
+### Декораторы функции 
