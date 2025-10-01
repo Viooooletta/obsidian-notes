@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5041847229004
+    "width": 334.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "77240d5535bce4f0",
@@ -178,14 +179,15 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-kanban:Создать новую доску": false
     }
   },
   "active": "b5ecabf45948502c",
   "lastOpenFiles": [
+    "МСА.md",
     "МА ЛБ 1 (2).pdf",
     "Закончить университет.md",
-    "МСА.md",
     "Работа.md",
     "desktop.ini",
     "Python.md",
