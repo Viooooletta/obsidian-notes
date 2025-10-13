@@ -13,14 +13,19 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Безымянная Kanban-доска 2.md",
+                "file": "Последний сем с лабами!.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
-                  "list-collapse": []
+                  "list-collapse": [
+                    true,
+                    true,
+                    true,
+                    false
+                  ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "Безымянная Kanban-доска 2"
+              "title": "Последний сем с лабами!"
             }
           }
         ],
@@ -81,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5041847229004
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "77240d5535bce4f0",
@@ -186,18 +192,18 @@
   "active": "11b9fdf91f3ceecc",
   "lastOpenFiles": [
     "Закончить университет.md",
-    "Безымянная Kanban-доска 2.md",
+    "Последний сем с лабами!.md",
     "Работа.md",
     "🏠 Home.md",
+    "Безымянная Kanban-доска 2.md",
+    "МА ЛБ 1 (2).pdf",
+    "МСА.md",
+    "Безымянная Kanban-доска 1.md",
     "Без названия.base",
     "Без названия 1.base",
     "Без названия 2.base",
-    "Безымянная Kanban-доска 1.md",
     "Безымянная Kanban-доска 3.md",
     "Безымянная Kanban-доска 4.md",
-    "Безымянная Kanban-доска.md",
-    "МСА.md",
-    "МА ЛБ 1 (2).pdf",
     "desktop.ini",
     "Python.md",
     "Декораторы функции.md",
