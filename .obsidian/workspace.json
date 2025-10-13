@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11b9fdf91f3ceecc",
+            "id": "d4b2af57a336bf5e",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -17,6 +17,7 @@
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    true,
                     true,
                     true,
                     true,
@@ -194,7 +195,7 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "11b9fdf91f3ceecc",
+  "active": "d4b2af57a336bf5e",
   "lastOpenFiles": [
     "Закончить университет.md",
     "Последний сем с лабами!.md",
