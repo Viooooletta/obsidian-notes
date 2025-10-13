@@ -4,25 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6df65bc0705a95a4",
+        "id": "89bc32e3b9742f1b",
         "type": "tabs",
         "children": [
           {
-            "id": "b03f7a4a494bf9ce",
+            "id": "11b9fdf91f3ceecc",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Безымянная Kanban-доска 1.md",
+                "file": "Безымянная Kanban-доска 2.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
+                  "list-collapse": []
                 }
               },
               "icon": "lucide-trello",
-              "title": "Безымянная Kanban-доска 1"
+              "title": "Безымянная Kanban-доска 2"
             }
           }
         ],
@@ -83,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5041847229004,
-    "collapsed": true
+    "width": 334.5041847229004
   },
   "right": {
     "id": "77240d5535bce4f0",
@@ -186,15 +183,19 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "b03f7a4a494bf9ce",
+  "active": "11b9fdf91f3ceecc",
   "lastOpenFiles": [
     "Закончить университет.md",
-    "Безымянная Kanban-доска 1.md",
+    "Безымянная Kanban-доска 2.md",
     "Работа.md",
     "🏠 Home.md",
-    "Без названия 1.base",
-    "Безымянная Kanban-доска.md",
     "Без названия.base",
+    "Без названия 1.base",
+    "Без названия 2.base",
+    "Безымянная Kanban-доска 1.md",
+    "Безымянная Kanban-доска 3.md",
+    "Безымянная Kanban-доска 4.md",
+    "Безымянная Kanban-доска.md",
     "МСА.md",
     "МА ЛБ 1 (2).pdf",
     "desktop.ini",
@@ -214,10 +215,6 @@
     "Циклы и операторы в них (for, while).md",
     "Условные операторы.md",
     "Ввод и вывод данных. Строки. Переменные.md",
-    "Проект по переработке.md",
-    "Переработка бумаги.md",
-    "Переработка одежды.md",
-    "Музыка.md",
     "Святослав_Куликов_Тестирование_ПО.pdf",
     "Pasted image 20250716152054.png",
     "Без названия.canvas",
