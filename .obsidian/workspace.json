@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "89bc32e3b9742f1b",
+        "id": "bbda170648d200d7",
         "type": "tabs",
         "children": [
           {
-            "id": "d4b2af57a336bf5e",
+            "id": "fb6e15e46222b62e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Последний сем с лабами!.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true
-                  ]
-                }
+                "file": "Хобби.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Последний сем с лабами!"
+              "icon": "lucide-file",
+              "title": "Хобби"
             }
           }
         ],
@@ -84,15 +72,15 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "77240d5535bce4f0",
@@ -179,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,17 +182,18 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "d4b2af57a336bf5e",
+  "active": "fb6e15e46222b62e",
   "lastOpenFiles": [
-    "Закончить университет.md",
-    "Последний сем с лабами!.md",
-    "Работа.md",
     "🏠 Home.md",
+    "Хобби.md",
+    "Без названия.base",
+    "Последний сем с лабами!.md",
+    "Закончить университет.md",
+    "Работа.md",
     "Безымянная Kanban-доска 2.md",
     "МА ЛБ 1 (2).pdf",
     "МСА.md",
     "Безымянная Kanban-доска 1.md",
-    "Без названия.base",
     "Без названия 1.base",
     "Без названия 2.base",
     "Безымянная Kanban-доска 3.md",
