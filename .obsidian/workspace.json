@@ -11,10 +11,28 @@
             "id": "0650d3f4a669601a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "kanban",
+              "state": {
+                "file": "Последний сем с лабами!.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    false,
+                    false,
+                    true,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Последний сем с лабами!"
             }
           }
         ],
@@ -180,18 +198,18 @@
   },
   "active": "0650d3f4a669601a",
   "lastOpenFiles": [
-    "МСА.md",
-    "🏠 Home.md",
-    "Последний сем с лабами!.md",
     "Закончить университет.md",
     "Работа.md",
+    "🏠 Home.md",
+    "Хобби.md",
+    "Музыка.md",
+    "МСА.md",
+    "Последний сем с лабами!.md",
     "Переработка бисера.md",
     "Без названия 1.base",
     "Проект по переработке.md",
-    "Хобби.md",
     "Переработка бумаги.md",
     "Переработка одежды.md",
-    "Музыка.md",
     "Барабаны.md",
     "Настольные игры.md",
     "Гитара.md",
