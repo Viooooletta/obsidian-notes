@@ -11,28 +11,14 @@
             "id": "0650d3f4a669601a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Последний сем с лабами!.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    false
-                  ]
-                }
+                "file": "Уходовые средства.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Последний сем с лабами!"
+              "icon": "lucide-file",
+              "title": "Уходовые средства"
             }
           }
         ],
@@ -198,12 +184,12 @@
   },
   "active": "0650d3f4a669601a",
   "lastOpenFiles": [
+    "🏠 Home.md",
+    "Последний сем с лабами!.md",
     "Закончить университет.md",
     "Работа.md",
-    "🏠 Home.md",
     "Кортежи (tuple).md",
     "Python.md",
-    "Последний сем с лабами!.md",
     "Уходовые средства.md",
     "Хобби.md",
     "Музыка.md",
