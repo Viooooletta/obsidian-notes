@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏠 Home.md",
+                "file": "Работа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏠 Home"
+              "title": "Работа"
             }
           }
         ],
@@ -184,8 +184,8 @@
   },
   "active": "ecb1e10f681aa510",
   "lastOpenFiles": [
-    "Уходовые средства.md",
     "🏠 Home.md",
+    "Уходовые средства.md",
     "Последний сем с лабами!.md",
     "Закончить университет.md",
     "Работа.md",
