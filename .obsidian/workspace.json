@@ -11,10 +11,14 @@
             "id": "ecb1e10f681aa510",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "🏠 Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🏠 Home"
             }
           }
         ],
@@ -71,7 +75,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,26 +185,26 @@
   },
   "active": "ecb1e10f681aa510",
   "lastOpenFiles": [
-    "Последний сем с лабами!.md",
-    "Закончить университет.md",
-    "Работа.md",
-    "🏠 Home.md",
-    "Уходовые средства.md",
     "Хобби.md",
     "Проект по переработке.md",
-    "Переработка одежды.md",
     "Переработка бисера.md",
+    "🏠 Home.md",
+    "Работа.md",
+    "Музыка.md",
+    "Барабаны.md",
+    "Гитара.md",
     "Настольные игры.md",
     "Сделать свою настольную игру.md",
-    "Музыка.md",
+    "Последний сем с лабами!.md",
+    "Закончить университет.md",
+    "Уходовые средства.md",
+    "Переработка одежды.md",
     "Git.md",
     "Python.md",
     "Кортежи (tuple).md",
     "МСА.md",
     "Без названия 1.base",
     "Переработка бумаги.md",
-    "Барабаны.md",
-    "Гитара.md",
     "Без названия.base",
     "Безымянная Kanban-доска 2.md",
     "МА ЛБ 1 (2).pdf",
