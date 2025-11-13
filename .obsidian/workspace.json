@@ -23,32 +23,19 @@
                     true,
                     true,
                     true,
+                    true,
+                    true,
+                    true,
                     false,
-                    true,
-                    true,
-                    true,
-                    true
+                    false
                   ]
                 }
               },
               "icon": "lucide-trello",
               "title": "Последний сем с лабами!"
             }
-          },
-          {
-            "id": "6a686bebc0a861dc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.10.3"
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -211,7 +198,7 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "6a686bebc0a861dc",
+  "active": "ecb1e10f681aa510",
   "lastOpenFiles": [
     "Закончить университет.md",
     "Работа.md",
