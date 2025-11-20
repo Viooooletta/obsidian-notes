@@ -11,28 +11,14 @@
             "id": "ecb1e10f681aa510",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Последний сем с лабами!.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true
-                  ]
-                }
+                "file": "Работа.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Последний сем с лабами!"
+              "icon": "lucide-file",
+              "title": "Работа"
             }
           }
         ],
@@ -200,6 +186,7 @@
   "active": "ecb1e10f681aa510",
   "lastOpenFiles": [
     "Закончить университет.md",
+    "Последний сем с лабами!.md",
     "Работа.md",
     "🏠 Home.md",
     "Без названия 4.base",
@@ -208,7 +195,6 @@
     "Диплом.md",
     "Без названия 3.base",
     "Безымянная Kanban-доска.md",
-    "Последний сем с лабами!.md",
     "Без названия 2.base",
     "Рукаделим.md",
     "Переработка бисера.md",
