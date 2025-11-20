@@ -11,14 +11,28 @@
             "id": "ecb1e10f681aa510",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Сделать какие-то доки.md",
-                "mode": "source",
-                "source": false
+                "file": "Последний сем с лабами!.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Сделать какие-то доки"
+              "icon": "lucide-trello",
+              "title": "Последний сем с лабами!"
             }
           }
         ],
@@ -168,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,15 +199,16 @@
   },
   "active": "ecb1e10f681aa510",
   "lastOpenFiles": [
-    "Blank_diploma_2026_g_studenty_ISIT_V_L.doc",
-    "Диплом.md",
-    "Сделать какие-то доки.md",
-    "Без названия 3.base",
     "Закончить университет.md",
-    "Безымянная Kanban-доска.md",
-    "Последний сем с лабами!.md",
     "Работа.md",
     "🏠 Home.md",
+    "Без названия 4.base",
+    "Сделать какие-то доки.md",
+    "Blank_diploma_2026_g_studenty_ISIT_V_L.doc",
+    "Диплом.md",
+    "Без названия 3.base",
+    "Безымянная Kanban-доска.md",
+    "Последний сем с лабами!.md",
     "Без названия 2.base",
     "Рукаделим.md",
     "Переработка бисера.md",
@@ -231,7 +245,6 @@
     "Pasted image 20250821152128.png",
     "Pasted image 20250730180231.png",
     "Pasted image 20250730175639.png",
-    "git-cheat-sheet-education.pdf",
     "Untitled.canvas"
   ]
 }
