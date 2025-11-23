@@ -11,28 +11,14 @@
             "id": "ecb1e10f681aa510",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Последний сем с лабами!.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    false,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true
-                  ]
-                }
+                "file": "🏠 Home.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Последний сем с лабами!"
+              "icon": "lucide-file",
+              "title": "🏠 Home"
             }
           }
         ],
@@ -199,14 +185,16 @@
   },
   "active": "ecb1e10f681aa510",
   "lastOpenFiles": [
-    "Закончить университет.md",
     "Работа.md",
+    "🏠 Home.md",
+    "Хобби.md",
+    "Без названия 5.base",
+    "Последний сем с лабами!.md",
+    "Закончить университет.md",
     "Python.md",
     "Django.md",
     "Условные операторы.md",
     "Ввод и вывод данных. Строки. Переменные.md",
-    "Последний сем с лабами!.md",
-    "🏠 Home.md",
     "Без названия 4.base",
     "Сделать какие-то доки.md",
     "Blank_diploma_2026_g_studenty_ISIT_V_L.doc",
@@ -218,7 +206,6 @@
     "Переработка бисера.md",
     "Переработка бумаги.md",
     "Переработка одежды.md",
-    "Хобби.md",
     "Настольные игры.md",
     "Сделать свою настольную игру.md",
     "Git.md",
@@ -230,13 +217,11 @@
     "Музыка.md",
     "Барабаны.md",
     "Гитара.md",
-    "Кортежи (tuple).md",
     "Без названия.base",
     "МА ЛБ 1 (2).pdf",
     "Святослав_Куликов_Тестирование_ПО.pdf",
     "Pasted image 20250716152054.png",
     "Без названия.canvas",
-    "Конспекты",
     "Pasted image 20250716152350.png",
     "Pasted image 20250716152814.png",
     "Pasted image 20250716151705.png",
