@@ -11,28 +11,14 @@
             "id": "ecb1e10f681aa510",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Последний сем с лабами!.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    false,
-                    true,
-                    true,
-                    false,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true
-                  ]
-                }
+                "file": "Работа.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Последний сем с лабами!"
+              "icon": "lucide-file",
+              "title": "Работа"
             }
           }
         ],
@@ -182,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,11 +187,11 @@
   "active": "ecb1e10f681aa510",
   "lastOpenFiles": [
     "Закончить университет.md",
+    "Последний сем с лабами!.md",
     "Работа.md",
     "🏠 Home.md",
     "Без названия 7.base",
     "Код начать писать.md",
-    "Последний сем с лабами!.md",
     "Без названия 6.base",
     "Хобби.md",
     "Без названия 5.base",
