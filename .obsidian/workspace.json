@@ -11,28 +11,14 @@
             "id": "1321c1c576b52b0b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Последний сем с лабами!.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true
-                  ]
-                }
+                "file": "Работа.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Последний сем с лабами!"
+              "icon": "lucide-file",
+              "title": "Работа"
             }
           }
         ],
@@ -200,11 +186,13 @@
   },
   "active": "1321c1c576b52b0b",
   "lastOpenFiles": [
-    "Лаба 4.md",
-    "Последний сем с лабами!.md",
     "Закончить университет.md",
+    "Последний сем с лабами!.md",
     "Работа.md",
     "🏠 Home.md",
+    "desktop.ini",
+    "Без названия 10.base",
+    "Лаба 4.md",
     "Рукаделим.md",
     "Хобби.md",
     "Без названия 9.base",
@@ -224,7 +212,6 @@
     "Диплом.md",
     "Без названия 3.base",
     "Безымянная Kanban-доска.md",
-    "Без названия 2.base",
     "Переработка бисера.md",
     "Переработка бумаги.md",
     "Переработка одежды.md",
@@ -234,8 +221,6 @@
     "Тестирование ПО.md",
     "Файлы.md",
     "Уходовые средства.md",
-    "Без названия 1.base",
-    "Музыка.md",
     "Pasted image 20250716152054.png",
     "Без названия.canvas",
     "Pasted image 20250716152350.png",
