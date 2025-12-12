@@ -11,13 +11,14 @@
             "id": "1321c1c576b52b0b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Без названия 15.base",
-                "viewName": "Таблица"
+                "file": "МСА.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Без названия 15"
+              "icon": "lucide-file",
+              "title": "МСА"
             }
           }
         ],
@@ -185,8 +186,8 @@
   },
   "active": "1321c1c576b52b0b",
   "lastOpenFiles": [
-    "МСА.md",
     "Без названия 15.base",
+    "МСА.md",
     "Без названия 14.base",
     "Лаба 4.md",
     "Без названия 13.base",
