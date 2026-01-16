@@ -11,24 +11,14 @@
             "id": "7a538384cf599549",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Последний сем с лабами!.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true
-                  ]
-                }
+                "file": "Работа.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Последний сем с лабами!"
+              "icon": "lucide-file",
+              "title": "Работа"
             }
           }
         ],
@@ -199,6 +189,8 @@
     "Закончить университет.md",
     "Работа.md",
     "🏠 Home.md",
+    "Без названия 17.base",
+    "Последний сем с лабами!.md",
     "Здоровье.md",
     "Без названия 16.base",
     "МСА.md",
@@ -208,7 +200,6 @@
     "Без названия 13.base",
     "Без названия 12.base",
     "Без названия 11.base",
-    "Последний сем с лабами!.md",
     "Уходовые средства.md",
     "desktop.ini",
     "Без названия 10.base",
@@ -216,7 +207,6 @@
     "Хобби.md",
     "Без названия 9.base",
     "Код начать писать.md",
-    "Без названия 8.base",
     "Python.md",
     "Django.md",
     "Условные операторы.md",
