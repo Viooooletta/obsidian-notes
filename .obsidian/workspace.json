@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "28665eb0482f1e84",
+        "id": "fb11a45d75f507f4",
         "type": "tabs",
         "children": [
           {
-            "id": "7a538384cf599549",
+            "id": "7ae6c3b0baf7d0fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Уходовые средства.md",
+                "file": "Работа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Уходовые средства"
+              "title": "Работа"
             }
           }
         ],
@@ -184,17 +184,18 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "7a538384cf599549",
+  "active": "7ae6c3b0baf7d0fa",
   "lastOpenFiles": [
-    "Здоровье.md",
     "🏠 Home.md",
+    "Без названия 20.base",
+    "Уходовые средства.md",
+    "Здоровье.md",
     "Без названия 19.base",
     "Работа.md",
     "Закончить университет.md",
     "Последний сем с лабами!.md",
     "Диплом.md",
     "Без названия 18.base",
-    "Уходовые средства.md",
     "Без названия 17.base",
     "Без названия 16.base",
     "МСА.md",
@@ -204,7 +205,6 @@
     "Без названия 13.base",
     "Без названия 12.base",
     "Без названия 11.base",
-    "desktop.ini",
     "Рукаделим.md",
     "Хобби.md",
     "Код начать писать.md",
