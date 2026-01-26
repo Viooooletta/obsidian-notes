@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Работа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Работа"
             }
           }
         ],
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,18 +185,21 @@
   },
   "active": "7ae6c3b0baf7d0fa",
   "lastOpenFiles": [
-    "Кортежи (tuple).md",
+    "🏠 Home.md",
+    "Без названия 25.base",
+    "Ввод и вывод данных. Строки. Переменные.md",
     "Python.md",
+    "Функции (def, lambda).md",
+    "Конструкторы, переопределение методов.md",
+    "Кортежи (tuple).md",
     "Множества (set frouzen).md",
     "Словари {dict}.md",
     "Списки list.md",
-    "Ввод и вывод данных. Строки. Переменные.md",
     "Без названия 24.base",
     "Django.md",
     "Без названия 23.base",
     "Циклы и операторы в них (for, while).md",
     "Работа.md",
-    "🏠 Home.md",
     "Без названия 22.base",
     "Хобби.md",
     "Без названия 21.base",
@@ -212,16 +214,12 @@
     "Без названия 17.base",
     "Без названия 16.base",
     "МСА.md",
-    "Без названия 15.base",
     "Лаба 4.md",
     "Рукаделим.md",
     "Код начать писать.md",
     "Условные операторы.md",
     "Сделать какие-то доки.md",
     "Безымянная Kanban-доска.md",
-    "Переработка бисера.md",
-    "Переработка бумаги.md",
-    "Переработка одежды.md",
     "Pasted image 20250716152054.png",
     "Без названия.canvas",
     "Pasted image 20250716152350.png",
