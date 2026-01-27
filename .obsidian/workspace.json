@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа.md",
+                "file": "Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа"
+              "title": "Python"
             }
           }
         ],
@@ -185,7 +185,9 @@
   },
   "active": "7ae6c3b0baf7d0fa",
   "lastOpenFiles": [
+    "Работа.md",
     "🏠 Home.md",
+    "Без названия 26.base",
     "Без названия 25.base",
     "Ввод и вывод данных. Строки. Переменные.md",
     "Python.md",
@@ -199,7 +201,6 @@
     "Django.md",
     "Без названия 23.base",
     "Циклы и операторы в них (for, while).md",
-    "Работа.md",
     "Без названия 22.base",
     "Хобби.md",
     "Без названия 21.base",
@@ -212,7 +213,6 @@
     "Диплом.md",
     "Без названия 18.base",
     "Без названия 17.base",
-    "Без названия 16.base",
     "МСА.md",
     "Лаба 4.md",
     "Рукаделим.md",
