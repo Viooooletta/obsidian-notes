@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Ввод и вывод данных. Строки. Переменные.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Ввод и вывод данных. Строки. Переменные"
             }
           }
         ],
@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,11 +186,11 @@
   },
   "active": "7ae6c3b0baf7d0fa",
   "lastOpenFiles": [
+    "Python.md",
     "Без названия 28.base",
     "🏠 Home.md",
     "Без названия 27.base",
     "Ввод и вывод данных. Строки. Переменные.md",
-    "Python.md",
     "Работа.md",
     "Без названия 26.base",
     "Без названия 25.base",
