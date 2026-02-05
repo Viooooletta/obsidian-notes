@@ -11,14 +11,13 @@
             "id": "7ae6c3b0baf7d0fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Уходовые средства.md",
-                "mode": "source",
-                "source": false
+                "file": "Без названия 32.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-file",
-              "title": "Уходовые средства"
+              "icon": "lucide-table",
+              "title": "Без названия 32"
             }
           }
         ],
@@ -186,6 +185,8 @@
   },
   "active": "7ae6c3b0baf7d0fa",
   "lastOpenFiles": [
+    "Уходовые средства.md",
+    "Без названия 32.base",
     "Здоровье.md",
     "🏠 Home.md",
     "Без названия 31.base",
@@ -208,9 +209,7 @@
     "Django.md",
     "Без названия 23.base",
     "Циклы и операторы в них (for, while).md",
-    "Без названия 22.base",
     "Хобби.md",
-    "Уходовые средства.md",
     "Закончить университет.md",
     "Последний сем с лабами!.md",
     "Диплом.md",
