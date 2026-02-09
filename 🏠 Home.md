@@ -6,6 +6,7 @@
 ## 📁 Мои долгосрочные интересы
 
 [Тут все мои хотелки](https://ohmywishes.com/users/viiiia)
+[А тут мой wishboard](https://www.pinterest.com/violetakaravaj/wishboard/)
 
 [[Здоровье]]
 [[Работа]]
