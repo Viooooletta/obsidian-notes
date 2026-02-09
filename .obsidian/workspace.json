@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Олдос Хаксли - Гений и богиня"
             }
+          },
+          {
+            "id": "647956302cf8a37d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.7"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -184,7 +197,7 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "7ae6c3b0baf7d0fa",
+  "active": "647956302cf8a37d",
   "lastOpenFiles": [
     "Книги.md",
     "Олдос Хаксли - Гений и богиня.md",
