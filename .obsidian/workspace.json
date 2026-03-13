@@ -11,16 +11,14 @@
             "id": "63942020e53f20a9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Безымянная Kanban-доска 1.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "Работа.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Безымянная Kanban-доска 1"
+              "icon": "lucide-file",
+              "title": "Работа"
             }
           },
           {
@@ -197,11 +195,12 @@
   },
   "active": "63942020e53f20a9",
   "lastOpenFiles": [
-    "Без названия 40.base",
-    "Безымянная Kanban-доска 1.md",
-    "Уходовые средства.md",
-    "Здоровье.md",
     "🏠 Home.md",
+    "Без названия 41.base",
+    "Уходовые средства.md",
+    "Безымянная Kanban-доска 1.md",
+    "Без названия 40.base",
+    "Здоровье.md",
     "Без названия 39.base",
     "Без названия 38.base",
     "Без названия 37.base",
@@ -224,7 +223,6 @@
     "Декораторы функции.md",
     "Закончить университет.md",
     "Без названия 33.base",
-    "Без названия 32.base",
     "Кортежи (tuple).md",
     "Ввод и вывод данных. Строки. Переменные.md",
     "Функции (def, lambda).md",
