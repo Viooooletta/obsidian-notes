@@ -22,6 +22,18 @@
               "icon": "lucide-trello",
               "title": "Безымянная Kanban-доска 1"
             }
+          },
+          {
+            "id": "8897574d175d14e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.12.4"
+            }
           }
         ],
         "stacked": true
@@ -183,7 +195,7 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "272885f0c84e8dd3",
+  "active": "63942020e53f20a9",
   "lastOpenFiles": [
     "Без названия 40.base",
     "Безымянная Kanban-доска 1.md",
