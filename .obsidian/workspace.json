@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Здоровье.md",
+                "file": "Уходовые средства.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Здоровье"
+              "title": "Уходовые средства"
             }
           },
           {
@@ -48,7 +48,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -208,14 +207,14 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "cccb99d6124f345e",
+  "active": "63942020e53f20a9",
   "lastOpenFiles": [
     "Здоровье.md",
+    "Уходовые средства.md",
     "🏠 Home.md",
     "Без названия 42.base",
     "Работа.md",
     "Без названия 41.base",
-    "Уходовые средства.md",
     "Безымянная Kanban-доска 1.md",
     "Без названия 40.base",
     "Без названия 39.base",
