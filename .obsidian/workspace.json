@@ -8,43 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63942020e53f20a9",
+            "id": "b7251804ad4a4282",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Уходовые средства.md",
+                "file": "Разработать веб-приложение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Уходовые средства"
-            }
-          },
-          {
-            "id": "cccb99d6124f345e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Уходовые средства.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Уходовые средства"
-            }
-          },
-          {
-            "id": "8897574d175d14e4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.12.4"
+              "title": "Разработать веб-приложение"
             }
           }
         ],
@@ -105,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "77240d5535bce4f0",
@@ -192,11 +167,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
@@ -204,17 +179,30 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-kanban:Создать новую доску": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "63942020e53f20a9",
+  "active": "b7251804ad4a4282",
   "lastOpenFiles": [
-    "Здоровье.md",
-    "🏠 Home.md",
-    "Хобби.md",
-    "Уходовые средства.md",
-    "Без названия 42.base",
+    "Без названия 45.base",
+    "Без названия 44.base",
+    "Диплом.md",
+    "Закончить университет.md",
+    "Последний сем с лабами!.md",
+    "Разработать веб-приложение.md",
     "Работа.md",
+    "🏠 Home.md",
+    "Уходовые средства.md",
+    "().md",
+    "Здоровье.md",
+    "Условные операторы.md",
+    "Python.md",
+    "Декораторы функции.md",
+    "Ввод и вывод данных. Строки. Переменные.md",
+    "Без названия 43.base",
+    "Хобби.md",
+    "Без названия 42.base",
     "Без названия 41.base",
     "Безымянная Kanban-доска 1.md",
     "Без названия 40.base",
@@ -223,8 +211,6 @@
     "Без названия 37.base",
     "Без названия 36.base",
     "Без названия 35.base",
-    "Без названия 34.base",
-    "Без названия 28.base",
     "Настольные игры.md",
     "Сделать свою настольную игру.md",
     "Рукаделим.md",
@@ -232,18 +218,9 @@
     "Олдос Хаксли - Гений и богиня.md",
     "Музыка.md",
     "Гитара.md",
-    "Python.md",
     "Основы ООП. Создание класса и объекта.md",
     "Циклы и операторы в них (for, while).md",
-    "Декораторы функции.md",
-    "Закончить университет.md",
     "Кортежи (tuple).md",
-    "Ввод и вывод данных. Строки. Переменные.md",
-    "Функции (def, lambda).md",
-    "Конструкторы, переопределение методов.md",
-    "Множества (set frouzen).md",
-    "Словари {dict}.md",
-    "Списки list.md",
     "Pasted image 20250716152054.png",
     "Без названия.canvas",
     "Pasted image 20250716152350.png",
